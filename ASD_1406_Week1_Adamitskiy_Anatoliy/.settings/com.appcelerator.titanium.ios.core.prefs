@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+iosLaunchConfigurationAttributes/ATTR_MINIFY=true
+iosLaunchConfigurationAttributes/ATTR_PROJECT_NAME=ASD_1406_Week1_Adamitskiy_Anatoliy
+iosLaunchConfigurationAttributes/appid=com.Adamitskiy
+iosLaunchConfigurationAttributes/certificate=Anatoliy Adamitskiy (7DH9P4BVDU)
+iosLaunchConfigurationAttributes/keychain=
+iosLaunchConfigurationAttributes/sdk_version=7.1
+iosLaunchConfigurationAttributes/uuid=4CF5CB82-5CA9-4B4E-B737-663CFB98E4E4
+provisioning_profiles/development/4CF5CB82-5CA9-4B4E-B737-663CFB98E4E4/appid=*
+provisioning_profiles/development/4CF5CB82-5CA9-4B4E-B737-663CFB98E4E4/name=iOS Team Provisioning Profile\: *
+provisioning_profiles/development/4CF5CB82-5CA9-4B4E-B737-663CFB98E4E4/uuid=4CF5CB82-5CA9-4B4E-B737-663CFB98E4E4
